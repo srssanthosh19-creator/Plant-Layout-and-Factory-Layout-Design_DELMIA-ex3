@@ -1,15 +1,25 @@
 PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 
 Introduction This document presents the complete process planning and plant layout for the manufacture of a Transmission Shaft using CNC and NC machines. The objective is to achieve efficient material flow, high productivity, and safe working conditions.
+
 Product Description Product: Transmission Shaft Function: Transmits torque and rotary motion Application: Automotive and industrial machinery Production Type: Batch production Manufacturing Method: CNC Turning and NC machining
+
 Material Selection Material Selected: EN8 / AISI 1040 Steel Reason: High strength, good machinability, and suitability for CNC finish turning. Raw Material Form: Hot rolled round bar.
+
 Process Planning The transmission shaft is manufactured using CNC and NC machines without grinding. Surface finish and dimensional accuracy are achieved through finish turning operations. Manufacturing Steps:
+
 Raw material cutting using band saw
+
 Facing and centering on CNC turning centre
+
+
 Rough turning
 Step and profile turning
+
 Grooving and chamfering
+
 Drilling or tapping (if required)
+
 Finish turning
 Deburring
 Inspection
